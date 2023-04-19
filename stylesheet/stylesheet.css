@@ -1,0 +1,170 @@
+@font-face {
+    font-family: "Goldbill medium"; src: url('Fonts/Goldbill-Medium.ttf');
+}
+.img-scale {
+    max-width: 100%;
+    height: auto;
+}
+.body {
+    max-width: 1366px;
+    height: 2438px;
+    margin: 0 auto;
+    background-color:#FFFBF7;
+}
+.colorbar-top {
+    background-color: #E3916C;
+    max-height: 670px;
+    max-width: 1366px;
+   }
+.colorbar-big {
+    background-color: #E3916C;
+    max-width: 1366px;
+    padding: 15px;
+}
+.colorbar-base {
+    background-color: #E3916C;
+    padding: 10px;
+    width: 1366px;
+    margin-top: 60px;
+}
+.colorbar-small {
+    background-color: #E3916C;
+    height: 63px;
+    width: 1366px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.logo {
+    text-align: center;
+    padding-top: 18px;
+}
+.topbuttons {
+    background-color: #FFFBF7;
+    border-radius: 27px;
+    height: 34px;
+    width: 158px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+ }
+ .button-text {
+    color: #2c2c2c;
+    font-family: Goldbill Medium;
+    font-weight: 100;
+    letter-spacing: .5px;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 3px;
+ }
+ .flex-container {
+     display: flex;
+     justify-content: center;
+     gap: 20px;
+ }
+ .flex-container-2 {
+    display: flex;
+    justify-content: center;
+    gap: 8%;
+ }
+.flex-wrap {
+    flex-wrap: wrap;
+}
+ .flex-container-buttons {
+     display: flex;
+     justify-content: center;
+     gap: 65px;
+ }
+ .header {
+    color: #2C2C2C;
+    font-family: Goldbill Medium;
+    font-weight: 100;
+    font-size: 34px;
+    letter-spacing: 4px;
+    padding-top: 10px;
+    line-height: 135%;
+    position: relative;
+    left: 12.5%;
+}
+ .headerwhite {
+    color: #FFFBF7;
+    font-family: Goldbill Medium;
+    font-weight: 100;
+    font-size: 35.5px;
+    letter-spacing: 4px;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 45px;
+}
+.address {
+    color: #FFFBF7;
+    font-family: Goldbill Medium;
+    font-weight: 100;
+    font-size: 27px;
+    text-align: center;
+    line-height: 140%;
+    padding-bottom: 10pxpx;
+    padding-top: 10px;
+}
+.menu-items {
+    border-radius: 45px;
+    height: auto;
+    padding-top: 22px;
+}
+.image-text-header {
+    color: #2C2C2C;
+    font-family: Goldbill Medium;
+    font-weight: 100;
+    letter-spacing: .5px;
+    font-size: 27px;
+    padding-top: 10px;
+    padding-right: 20px;
+}
+.color-line {
+    background-color: #E3916C;
+    width: 210px;
+    height: 5px;
+    margin-top: -15px;
+}
+.image-text-body {
+    color: #2C2C2C;
+    font-family: Goldbill Medium;
+    font-weight: 100;
+    line-height: 145%;
+    letter-spacing: .5px;
+    font-size: 19px;
+    margin-top: 13px;
+}
+.chefs {
+    border-radius: 50px;
+    padding-top: 22px;
+    padding-right: 20px;
+    height: auto;
+}
+.color-line-large {
+    background-color: #E3916C;
+    width: 435px;
+    height: 5px;
+    margin-top: -15px;
+}
+.michelin {
+    height: 178px;
+    width: 240px;
+   margin-left: 90px;
+   padding-top: 15px;
+}
+.hours-text {
+    color: #FFFBF7;
+    font-family: Goldbill Medium;
+    font-weight: 100;
+    font-size: 19px;
+    text-align: center;
+    line-height: 140%;
+    margin-top: -15px;
+    margin-bottom: 50px;
+}
+.bottom-logo {
+   margin-top: -40px;
+   margin-right: 10px;
+}
+.hero-image {
+    margin-top: 40px;
+}
